@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/proyecto/static/css/main.326e6017.css",
+    "main.js": "/proyecto/static/js/main.60d36bcb.js",
+    "static/js/787.227b7bd9.chunk.js": "/proyecto/static/js/787.227b7bd9.chunk.js",
+    "static/media/umsa.jpeg": "/proyecto/static/media/umsa.3a935bbd6d099b5f3c7d.jpeg",
+    "static/media/pino.jpg": "/proyecto/static/media/pino.3fb3bbc04afd924c57d0.jpg",
+    "static/media/caoba.jpg": "/proyecto/static/media/caoba.54601b20b4aaadb0ab99.jpg",
+    "static/media/comedor.jpeg": "/proyecto/static/media/comedor.a694eb626fd0ae5068a7.jpeg",
+    "static/media/reloj.jpeg": "/proyecto/static/media/reloj.7de0b5e29ba6d45ab46b.jpeg",
+    "static/media/lapaz.jpeg": "/proyecto/static/media/lapaz.0e7814e2d1e1dda0bf3d.jpeg",
+    "static/media/barco.jpeg": "/proyecto/static/media/barco.ec236a9e8b2174f238df.jpeg",
+    "static/media/casa.jpeg": "/proyecto/static/media/casa.15bac05957df741fd683.jpeg",
+    "static/media/Mueble2.jpeg": "/proyecto/static/media/Mueble2.34ce11cd9476cf8f3596.jpeg",
+    "static/media/logo.svg": "/proyecto/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proyecto/index.html",
+    "main.326e6017.css.map": "/proyecto/static/css/main.326e6017.css.map",
+    "main.60d36bcb.js.map": "/proyecto/static/js/main.60d36bcb.js.map",
+    "787.227b7bd9.chunk.js.map": "/proyecto/static/js/787.227b7bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.326e6017.css",
+    "static/js/main.60d36bcb.js"
+  ]
+}
